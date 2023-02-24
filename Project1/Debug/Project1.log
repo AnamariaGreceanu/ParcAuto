@@ -1,0 +1,6 @@
+﻿  Proiect.cpp
+E:\DocumenteLucru\PROIECT POO\Project1\clase.cpp(1020,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\DocumenteLucru\PROIECT POO\Project1\clase.cpp(1027,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\DocumenteLucru\PROIECT POO\Project1\Proiect.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+E:\DocumenteLucru\PROIECT POO\Project1\clase.cpp(756): warning C4715: 'Contract::operator=': not all control paths return a value
+  Project1.vcxproj -> E:\DocumenteLucru\PROIECT POO\Project1\Debug\Project1.exe
